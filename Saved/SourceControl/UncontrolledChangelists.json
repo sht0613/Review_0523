@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/C_Unreal/Review_0523/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/C_Unreal/Review_0523/Content/Map/ReviedwMap.umap",
+				"C:/C_Unreal/Review_0523/Content/Input/IMC_Default.uasset",
+				"C:/C_Unreal/Review_0523/Content/Input/IA_Jump.uasset",
+				"C:/C_Unreal/Review_0523/Content/Input/IA_Look.uasset",
+				"C:/C_Unreal/Review_0523/Content/Input/IA_Move.uasset",
+				"C:/C_Unreal/Review_0523/Content/Blueprint/BP_MyGameModBase.uasset",
+				"C:/C_Unreal/Review_0523/Content/Blueprint/BP_MyCharacter.uasset",
+				"C:/C_Unreal/Review_0523/Content/Input/IA_Zoom.uasset",
+				"C:/C_Unreal/Review_0523/Content/Blueprint/BP_MyPlayerController.uasset",
+				"C:/C_Unreal/Review_0523/Content/Input/NewInputMappingContext.uasset"
+			]
+		}
+	]
+}

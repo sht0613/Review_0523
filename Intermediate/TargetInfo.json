@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Review_0523",
+			"Path": "..\\Source\\Review_0523.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Review_0523Editor",
+			"Path": "..\\Source\\Review_0523Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

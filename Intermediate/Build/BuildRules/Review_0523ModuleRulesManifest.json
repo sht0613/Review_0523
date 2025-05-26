@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\C_Unreal\\Review_0523\\Source\\Review_0523\\Review_0523.Build.cs",
+		"C:\\C_Unreal\\Review_0523\\Source\\Review_0523.Target.cs",
+		"C:\\C_Unreal\\Review_0523\\Source\\Review_0523Editor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
